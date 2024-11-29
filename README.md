@@ -1,3 +1,3 @@
 # PROYECTO1
 
-**Participantes**: Aarón Neupaver, Alejandro, Óscar Arriaza, Antonio, Alberto
+**Participantes**: Aarón , Alejandro, Óscar , Antonio, Alberto
