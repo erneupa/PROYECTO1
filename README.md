@@ -56,7 +56,7 @@ Ya sea optimizando la eficiciencia operativa, administrando la cadena de suminis
 # ¿Qué es la inteligencia artificial en la industria?
 La inteligencia artificial en la industria se refiere al uso de tecnologías avanzadas que permiten a las máquinas y sistemas realizar tareas que tradicionalmente requeríanb intervención humana.
 
-# ¿Cómo se utiliza la inteligenci8a artifical en la industria?
+# ¿Cómo se utiliza la inteligencia artifical en la industria?
 
 En la industria 4.0 y las fábricas inteligentes, la IA se aplica en unas variedad de procesos industriales para mejorar la eficiencia, reducir costos y aumentar la calidad del producto, destacando áreas como:
 
