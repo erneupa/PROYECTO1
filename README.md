@@ -119,7 +119,7 @@ Esto es crucial para optimizar la cadena de suministro, donde la IA puede prever
  ### Gestión y calidad de datos
  ### Resistenncia al cambio
 
- #¿Cómo puede ayudar la inteligencia artifical en la gestión de procesos industriales?
+ # ¿Cómo puede ayudar la inteligencia artifical en la gestión de procesos industriales?
 
 A traves de la automatización y el análisi avanzando de datos, la IA puede transformar la manera en que se gestionan los procesos industriales, haciéndolos más ágiles, precisos y adaptables.
 
