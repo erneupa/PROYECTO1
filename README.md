@@ -123,3 +123,5 @@ Esto es crucial para optimizar la cadena de suministro, donde la IA puede prever
 
 A traves de la automatización y el análisi avanzando de datos, la IA puede transformar la manera en que se gestionan los procesos industriales, haciéndolos más ágiles, precisos y adaptables.
 
+https://www.sydle.com/es/blog/inteligencia-artificial-en-la-industria-66f2c91f50a97b04e3f02170
+
