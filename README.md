@@ -172,3 +172,5 @@ Cuando el modelo de la IA implementado está en funcionamiento, hay que monitori
 
 Así, para implementar la inteligencia artificial en la empresa hay que evaluar la situación de la empresa, definir unos objetivos y elegir las soluciones adecuada. y apartir de ahí medir los resultaods y aplicar una política de mejora continua. Se trata de un  proceso continuo y evolutivo. Pero las compañías deben tener en cuenta todos estos pasos al integrar la IA en sus operaciones. Porque al hacerlo, se conseguirán organizaciones más eficicientes, eficaces y exitosa.
 
+https://www.apd.es/como-implementar-inteligencia-artificial-empresa/
+
