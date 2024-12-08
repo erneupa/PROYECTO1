@@ -7,7 +7,7 @@
 He seleccionado el sector de la informática en concreto de ciberseguridad.
 La empresa va a ser ficticia y se va a llamar: Ciber Aliado
 
-La empresa va tener estas carácteristicas:
+## La empresa va tener estas carácteristicas:
 * **Tamaño:** Un tamaño mediano contando con 100 trabajadores y teniendo edificios de la empresa por todo Andalucia.
 * **Producto:** La empresa va a ofrecer solamente apartados relacionados con la ciberseguridad pero enfocandonos en atacante llevando a cabo prueba de pentesting, realizando hacking ético y auditorías. También ofreceríamos un software antimalware encargado de detectar virus pero de tipo rootkit siendo este un antivirus de arranque. También nos encargaríamos de la seguridad en internet por ejemplo cubriendo la mayor parte de vulnerabilidades de una página web.
 * **Objetivo:** El objetivo de la empresa es poder llegar a tener suficiente dínero como para poder tener muchos mas profesionales encargandose de revisar la seguridad de de nuestros clientes para lograr que nuestros clientes estén totalmente aliviados de su seguridad en internet.
