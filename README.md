@@ -6,5 +6,5 @@
 
 ![Diagrama de Mermaid](https://github.com/erneupa/PROYECTO1/blob/018fdcdc95d5e284289a1aa522d25b8d7b003d10/diagrama.svg)
 
-![codigo del diagrama]()
+![codigo del diagrama](https://github.com/erneupa/PROYECTO1/blob/3780ad2a86eb032240e4e98ee5daef4b6d2208b3/codigo-diagrama.mmd)
    
