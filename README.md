@@ -1,4 +1,4 @@
-# PROYECTO1
+# Ciber Aliado
 
 **Participantes**: Aarón Neupaver, Alejandro, Óscar Arriaza, Antonio, Alberto
 
