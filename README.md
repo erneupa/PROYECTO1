@@ -126,7 +126,8 @@ La resistencia al cambio es un fenómeno bien documentado en la psicología y la
 
 A traves de la automatización y el análisi avanzando de datos, la IA puede transformar la manera en que se gestionan los procesos industriales, haciéndolos más ágiles, precisos y adaptables.
 
-https://www.sydle.com/es/blog/inteligencia-artificial-en-la-industria-66f2c91f50a97b04e3f02170
+ bibliografia:
+ https://www.sydle.com/es/blog/inteligencia-artificial-en-la-industria-66f2c91f50a97b04e3f02170
 
 
 
@@ -175,6 +176,7 @@ Cuando el modelo de la IA implementado está en funcionamiento, hay que monitori
 
 Así, para implementar la inteligencia artificial en la empresa hay que evaluar la situación de la empresa, definir unos objetivos y elegir las soluciones adecuada. y apartir de ahí medir los resultaods y aplicar una política de mejora continua. Se trata de un  proceso continuo y evolutivo. Pero las compañías deben tener en cuenta todos estos pasos al integrar la IA en sus operaciones. Porque al hacerlo, se conseguirán organizaciones más eficicientes, eficaces y exitosa.
 
+Bibliografia:
 https://www.apd.es/como-implementar-inteligencia-artificial-empresa/
 
 # Definición de empresa
