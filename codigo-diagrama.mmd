@@ -1,0 +1,27 @@
+---
+config:
+  theme: neo
+  look: neo
+  layout: elk
+---
+flowchart LR
+ subgraph subGraph0["Procesos Clave"]
+        Pentesting["Pentesting"]
+        Hacking["Hacking Ético"]
+        Auditorias["Auditorías de Seguridad"]
+        Software["Software Antimalware"]
+        SeguridadWeb["Seguridad Web"]
+  end
+ subgraph subGraph1["Herramientas y Tecnologías"]
+        Nmap["Nmap"]
+        WireShark["WireShark"]
+        Redes["Redes Sociales"]
+  end
+    IT["IT - Tecnologías de la Información"] -- Gestiona --> Pentesting & Hacking & Auditorias & Software & SeguridadWeb & Marketing["Marketing Digital"]
+    IT -- Soporta --> Redes & Nmap & WireShark
+    OT["OT - Tecnologías Operativas"] -- Implementa --> Pentesting & Hacking & Auditorias & Software & SeguridadWeb
+    IA["IA - Inteligencia Artificial"] -- Optimiza --> Pentesting & Hacking & Auditorias & Software & SeguridadWeb
+    IA -- Analiza --> Marketing
+    IT -. Manejo de datos .-> IA
+    IA -- Optimización --> Pentesting & Hacking & Auditorias & Software & SeguridadWeb
+    IA -- Análisis --> Marketing
