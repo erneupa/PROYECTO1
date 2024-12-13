@@ -4,6 +4,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Ciber Aliado
 
 **Participantes**: Aarón Neupaver, Alejandro, Óscar Arriaza, Antonio, Alberto
@@ -396,3 +397,8 @@ otras empresas más grandes.
 
 La inteligencia artificial (IA) es muy importante porque ayuda a mejorar procesos, tomar mejores decisiones y personalizar servicios en áreas como la industria, la salud o el comercio. En el futuro, será aún más relevante porque permitirá automatizar tareas más complejas, trabajar de forma autónoma y adaptarse mejor con las personas. Aunque trae muchos beneficios, también será importante cuidar temas como la ética y el impacto en los trabajos. En general, la IA está cambiando cómo funcionan las empresas y los sectores, haciéndolos más eficientes e innovadores.
 >>>>>>> pregunta6
+=======
+# Publicación en GitHub
+
+7. **Publica en GitHub:** Crea un repositorio con todos los archivos del proyecto, incluido el diagrama Mermaid y la reflexión.
+>>>>>>> pregunta7
