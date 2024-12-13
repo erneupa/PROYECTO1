@@ -2,7 +2,7 @@
    
 2. **Selecciona un sector y una empresa:** Define una empresa (ficticia o real) de un sector concreto y especifica sus características principales (tamaño, productos,     clientes, etc.).
    
-He seleccionado el sector de la informática en concreto de ciberseguridad.
+Hemos seleccionado el sector de la informática en concreto de ciberseguridad.
 La empresa va a ser ficticia y se va a llamar: Ciber Aliado
 
 ## La empresa va tener estas carácteristicas:
