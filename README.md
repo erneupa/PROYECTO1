@@ -65,17 +65,17 @@ Utilizando sensores y algoritmos de IA para predecir cuándo una máquina o equi
 Inspeccionando productos en tiempo real, identificando defectos que podrían no ser detectados por el ojo humano.
 
 ## Optimización de la cadena de suministros
-analizando datos históricos y en tiempo real para optimizar la cadena de suminstros, desde la gestión de inventarios hasta la logística
+Analizando datos históricos y en tiempo real para optimizar la cadena de suminstros, desde la gestión de inventarios hasta la logística
 
-## personalización de productos
-ofreciendo productos personalizados a gran escala, adaptando la producción a las preferencias individuales de los clientes y sin sacrificar la eficiencia.
+## Personalización de productos
+Ofreciendo productos personalizados a gran escala, adaptando la producción a las preferencias individuales de los clientes y sin sacrificar la eficiencia.
 
 ## Automatización de procesos
-automatizando procesos complejos que requieren tomare decisiones, como la progrmación de la producción o la planificación de rutas logísticas.
+Automatizando procesos complejos que requieren tomare decisiones, como la progrmación de la producción o la planificación de rutas logísticas.
 
 # ¿Cuáles son los beneficios de la inteligencia artificial en la industria? 
 
-La inteligencia artificial en la induistria ofrece una serie de beneficios que están transformando la forma en que las empresas operan, mejorando la eficiencia, la productividad y la seguridad en el entorno industrial
+La inteligencia artificial en la induistria ofrece una serie de beneficios que están transformando la forma en que las empresas operan, mejorando la eficiencia, la productividad y la seguridad en el entorno industrial.
 
 
 ## Mejoras en el flujo de trabajo
