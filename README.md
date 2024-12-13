@@ -8,4 +8,4 @@ El diagrama muestra la interacción entre procesos clave y tecnologías en un en
 
 Este es el código para crear el diagrama:
 https://github.com/erneupa/PROYECTO1/blob/3780ad2a86eb032240e4e98ee5daef4b6d2208b3/codigo-diagrama.mmd#L1-L27
-![Desde aquí, podrás ver también el diagrama.](https://github.com/erneupa/PROYECTO1/blob/3780ad2a86eb032240e4e98ee5daef4b6d2208b3/codigo-diagrama.mmd)
+![Desde aquí, podrás ver también el diagrama.](https://github.com/erneupa/PROYECTO1/blob/pregunta4/codigo-diagrama.mmd)
