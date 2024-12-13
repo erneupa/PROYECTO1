@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 # Ciber Aliado
 
 **Participantes**: Aarón Neupaver, Alejandro, Óscar Arriaza, Antonio, Alberto
@@ -12,8 +5,6 @@
 # Diferencia entre digitalización en planta y en negocio
  **Estudia los conceptos:** Aprende la diferencia entre digitalización en planta y en negocio. Investiga cómo la IA puede aplicarse en ambos casos.
    
->>>>>>> pregunta1
-
 
 
 # Digitalización en planta y Digitalización en negocio
@@ -186,7 +177,6 @@ Así, para implementar la inteligencia artificial en la empresa hay que evaluar 
 
 https://www.apd.es/como-implementar-inteligencia-artificial-empresa/
 
-=======
 # Definición de empresa
    
 2. **Selecciona un sector y una empresa:** Define una empresa (ficticia o real) de un sector concreto y especifica sus características principales (tamaño, productos,     clientes, etc.).
@@ -256,8 +246,7 @@ La empresa va a ser ficticia y se va a llamar: Ciber Aliado
 
 ### Proyectos Futuros
 * Nos gustaría expandirnos por todo el país de España y tener unos ingresos estables y poder mejorar nuestro producto y añadir más productos importantes para asegurar que nuestro objetivo se cumpla y que nuestros clientes esten satisfechos.
->>>>>>> pregunta2
-=======
+
 # Definición de las tecnologías de digitalización
    
 3. **Propón tecnologías:** Elabora una lista de 3-5 tecnologías de digitalización, diferenciando entre aquellas que pueden aplicarse en planta y en negocio.
@@ -297,7 +286,6 @@ La empresa va a ser ficticia y se va a llamar: Ciber Aliado
   - Evaluación constante y realista de la postura de seguridad de los sistemas.
   - Mejora de la confianza del cliente al demostrar los resultados de las pruebas.
 
----
 
 ## **2. Tecnologías para Negocio**
 
@@ -331,16 +319,13 @@ La empresa va a ser ficticia y se va a llamar: Ciber Aliado
   - Mejora en la captación de leads con estrategias personalizadas.
   - Reducción de costos en publicidad mediante automatización.
 
----
 
 ## **Relación Planta-Negocio**
 La integración de estas tecnologías permite a **Ciber Aliado** alcanzar sus objetivos de crecimiento y mejora de servicios al combinar operaciones técnicas y administrativas:
 - Los **Sistemas de Gestión de Seguridad** y **Pentesting Automatizado** generan datos críticos que pueden analizarse con **Power BI** para identificar patrones y ajustar estrategias.
 - La **Automatización de Marketing** complementa las auditorías y pentesting, mostrando resultados de valor agregado para los clientes y destacando la calidad del servicio.
 
----
->>>>>>> pregunta3
-=======
+
 # Creación del diagrama con Mermaid
  
 4. **Crea un diagrama con Mermaid:** Haz un diagrama que represente la estructura de IT y OT de la empresa, y cómo las tecnologías de IA afectan a los procesos clave.     Usa Mermaid para crearlo.
@@ -352,8 +337,8 @@ El diagrama muestra la interacción entre procesos clave y tecnologías en un en
 Este es el código para crear el diagrama:
 https://github.com/erneupa/PROYECTO1/blob/3780ad2a86eb032240e4e98ee5daef4b6d2208b3/codigo-diagrama.mmd#L1-L27
 ![Desde aquí, podrás ver también el diagrama](https://github.com/erneupa/PROYECTO1/blob/10a7e773fc566a3593a306b0027cdfc78652dfa8/codigo-diagrama.mmd)
->>>>>>> pregunta4
-=======
+
+
 # Propuesta de transformación digital
    
 5. **Elabora una propuesta de transformación digital:** Describe cómo la IA optimiza los procesos de planta
@@ -387,8 +372,8 @@ y actuar acorde, haciendo el producto aún más efectivo.
 - **Conclusión:** Todo esto contribuiría a una automatización de tareas que facilitaría el trabajo y solventaría
 uno de los mayores desafíos a los que nos enfrentamos: La falta de personal y competición con
 otras empresas más grandes.
->>>>>>> pregunta5
-=======
+
+
 # Reflexion sobre el impacto de la IA
 
 6. **Reflexiona sobre el impacto de la IA:** Redacta un pequeño párrafo sobre la importancia presente y futura de la IA en la empresa y el sector.
@@ -396,9 +381,9 @@ otras empresas más grandes.
 
 
 La inteligencia artificial (IA) es muy importante porque ayuda a mejorar procesos, tomar mejores decisiones y personalizar servicios en áreas como la industria, la salud o el comercio. En el futuro, será aún más relevante porque permitirá automatizar tareas más complejas, trabajar de forma autónoma y adaptarse mejor con las personas. Aunque trae muchos beneficios, también será importante cuidar temas como la ética y el impacto en los trabajos. En general, la IA está cambiando cómo funcionan las empresas y los sectores, haciéndolos más eficientes e innovadores.
->>>>>>> pregunta6
-=======
+
+
 # Publicación en GitHub
 
 7. **Publica en GitHub:** Crea un repositorio con todos los archivos del proyecto, incluido el diagrama Mermaid y la reflexión.
->>>>>>> pregunta7
+
