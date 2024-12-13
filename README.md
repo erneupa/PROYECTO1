@@ -39,7 +39,7 @@ Los sistemas CRM permiten a las empresas gestionar sus interacciones con los cli
 ### Análisis de datos
 Los datos recopilados se analizan para obtener insigts que pueden ayudar a la toma de decisiones
 
-### En resumen, la digitalización en planta se centra en mejorar la eficiencia y la precision de los procesos de producción, la digitalización en negocios se centra en mejorar la eficicienica y la efectividad de los procesos de negocio.
+### En resumen, la digitalización en planta se centra en mejorar la eficiencia y la precision de los procesos de producción, la digitalización en negocios se centra en mejorar la eficicienica y la efectividad en los procesos de Análisis de datos, Digitalización de documentos y  sistemas de gestión.
 
 
 
