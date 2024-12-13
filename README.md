@@ -1,4 +1,4 @@
-# Ciber Aliado
+# Propuesta de transformación digital
    
 5. **Elabora una propuesta de transformación digital:** Describe cómo la IA optimiza los procesos de planta
 y negocio, destacando las ventajas que esta transformación aporta a la empresa y al sector.
