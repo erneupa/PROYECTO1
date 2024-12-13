@@ -44,7 +44,7 @@ Los datos recopilados se analizan para obtener insigts que pueden ayudar a la to
 
 
 
-# Ahora explicaremos como se puede implementar la inteligencia artificial en la Industria
+# Inteligencia artificial en la Industria
 
 En los tiempos de la transformación digital, la inteligencia artificial en la industria se ha convertido en un pilar esencial para la evolucioón del sector manufacturero. No porque se trate de una tecnología futurista, ya que, a dia de hoy, la IA está redefiniendo la forma en que operan las empresas, mejorando la eficiencia, optimizando los procesos y permitiendo decisiones más informadas.
 
@@ -73,7 +73,7 @@ ofreciendo productos personalizados a gran escala, adaptando la producción a la
 ## Automatización de procesos
 automatizando procesos complejos que requieren tomare decisiones, como la progrmación de la producción o la planificación de rutas logísticas.
 
-#¿Cuáles son los beneficios de la inteligencia artificial en la industria? 
+# ¿Cuáles son los beneficios de la inteligencia artificial en la industria? 
 
 La inteligencia artificial en la induistria ofrece una serie de beneficios que están transformando la forma en que las empresas operan, mejorando la eficiencia, la productividad y la seguridad en el entorno industrial
 
@@ -96,7 +96,7 @@ Según una encuesta de BCG realizada entre fabricantes internacionales, el 89% d
 
 por otro lados, la IA contribute a la reducción de costos mediante la optimización de los procesos y la minimización del tiempo de inactivdad
 
-Al utilziar herramientas como el machine learnig y el analisis predictivo, las empresas pueden prever fallas y abordar problemas potenciales de manera proactiva, lo que reduce significativamente los costos asociados con el mantenimiento y las interrupciones en la producción.
+Al utilizar herramientas como el machine learnig y el analisis predictivo, las empresas pueden prever fallas y abordar problemas potenciales de manera proactiva, lo que reduce significativamente los costos asociados con el mantenimiento y las interrupciones en la producción.
 
 ## Mayor confiabilidad de los datos
 
@@ -110,12 +110,16 @@ Esto es crucial para optimizar la cadena de suministro, donde la IA puede prever
 
  ## Algunos desafíos de la inteligencia artifical en la industria
 
- ### Fallta de habilidades digitales
+ ### Falta de habilidades digitales
+ Serian falta de conocimientos, habilidades, capacidades y destrezas, que se necesitan para utilizar de manera segura y eficiente las tecnologías digitales, y para beneficiarse de ellas.
  ### Escabilidad de las solucinoes de IA
+  Escalar la inteligencia artificial (IA) para su organización significa integrar tecnologías de IA en toda su empresa para mejorar los procesos, aumentar la eficiencia e impulsar el      crecimiento al tiempo que gestiona los riesgos y eleva el cumplimiento.
  ### Integración con sistemas heredados
+ Integración de sistemas heredados. La integración de sistemas heredados se refiere a la actualización de sistemas antiguos , lo que a menudo crea puentes entre tecnologías obsoletas y   sistemas modernos.
  ### Gestión y calidad de datos
+ La Gestión de calidad de datos (DQM) es el proceso de interconexión que comprueba que los datos tengan los valores necesarios, tipos de datos válidos y códigos válidos. También puede    configurar DQM de modo que corrija los datos proporcionando valores por omisión, formateando números y fechas y añadiendo nuevos códigosl.
  ### Resistenncia al cambio
-
+La resistencia al cambio es un fenómeno bien documentado en la psicología y la gestión empresarial. A menudo se manifiesta cuando individuos o grupos se sienten amenazados por nuevas tecnologías o metodologías que alteran sus rutinas establecidas. Con la creciente influencia de la inteligencia artificial (IA) en diversos sectores, la resistencia al cambio se ha convertido en un tema central para empresas y organizaciones que buscan implementar estas tecnologías innovadoras.
  # ¿Cómo puede ayudar la inteligencia artifical en la gestión de procesos industriales?
 
 A traves de la automatización y el análisi avanzando de datos, la IA puede transformar la manera en que se gestionan los procesos industriales, haciéndolos más ágiles, precisos y adaptables.
